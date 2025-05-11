@@ -1,2 +1,6 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
 csv/*.csv filter=lfs diff=lfs merge=lfs -text
+csv/xes_temp_test_scratch3_webgl.csv filter=lfs diff=lfs merge=lfs -text
+csv/user_lecture_mission.csv filter=lfs diff=lfs merge=lfs -text
+csv/projects.csv filter=lfs diff=lfs merge=lfs -text
+xes_admin_permissions_per_route.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
